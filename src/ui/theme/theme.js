@@ -5,7 +5,7 @@ export default {
       light: '#8abff5',
       dark: '#1e6291',
       mainContrastText: '#000000',
-      darkContrastText: '#ffffff'
+      darkContrastText: '#ffffff',
     },
     secondary: {
       main: '#fb8c00',
@@ -13,5 +13,8 @@ export default {
       dark: '#c25e00',
       mainContrastText: '#000000',
     },
+  },
+  background: {
+    grey: '#e0e0e0',
   },
 };
